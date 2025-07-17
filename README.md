@@ -53,7 +53,7 @@
 
 ## 📘 My Projects
 
-- [**LaTeX-Gboard-Dictionary**](https://github.com/DenverCoder1/LaTeX-Gboard-Dictionary)  
+- [**Spanish Football Teams Analysis**](https://github.com/Tiagobusso/Spanish-Football-Teams-Analysis)  
 
 - [**GitHub Readme Streak Stats**](https://github.com/DenverCoder1/github-readme-streak-stats)  
 
