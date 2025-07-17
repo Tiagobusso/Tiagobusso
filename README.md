@@ -56,11 +56,10 @@
 
 ## 📘 My Projects
 
+- [**Digit Recognition Under Corruption Analysis**](https://github.com/Tiagobusso/-Robust-Digit-Recognition-with-MNIST-C-Analyzing-Corruptions-and-Model-Performance-)  
+
 - [**Spanish Football Teams Analysis**](https://github.com/Tiagobusso/Spanish-Football-Teams-Analysis)  
 
-- [**GitHub Readme Streak Stats**](https://github.com/DenverCoder1/github-readme-streak-stats)  
-
-- [**GitHub Readme YouTube Stats**](https://github.com/DenverCoder1/github-readme-youtube-stats)  
 
 
 ### 🔗 &nbsp;Contact Me
